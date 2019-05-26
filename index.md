@@ -44,32 +44,32 @@ We will release the dataset of simulating the illegal action in court (eating ch
 We recognise with higher accuracy in three stages.
  At first stage, we detect the person of different roles in count to eliminate noises from background and scale the objects in same scale. 
  The second part is temporal action proposal generation.
- Finally, we will classify the action category with C3D and two-stream.
+ Finally, we will classify the action category with C3D and two-stream.  
 I focus on the extremely low resolution action classification in surveillance videos,
 which is most challenging problem of our project. 
 
 #### 3D Semantic Reconstruction from a Monocular Camera with a Novel Multi-task Network (August 2018 - February 2019)
-We explore the interplay between low-level features for both depth and semantic prediction.
-The proposed network can produce the depth and semantic maps simultaneously, which provides basic knowledge for further semantic map reconstruction.  
-We apply image segmentation techniques to refine the depth prediction to reduce the fluctuations caused by convolution layers.
-The final map is saved in a memory-friendly way to present a large-scale urban scene.
-The corresponding paper is recently submitted to the IEEE IROS 2019. 
+We explore the interplay between low-level features for both depth and semantic prediction.  
+The proposed network can produce the depth and semantic maps simultaneously, which provides basic knowledge for further semantic map reconstruction.    
+We apply image segmentation techniques to refine the depth prediction to reduce the fluctuations caused by convolution layers.   
+The final map is saved in a memory-friendly way to present a large-scale urban scene.  
+The corresponding paper is recently submitted to the IEEE IROS 2019.   
 
 #### SAR Image Despeckling with Fractional Total Variational Loss (November 2017 - May 2018)
-Motivated in <Fractional Calculus Application> Course, we tried to apply fractional calculus to image denoising. 
+Motivated in <Fractional Calculus Application> Course, we tried to apply fractional calculus to image denoising.   
 In terms of long-term memory, non-locality, and weak singularity, fractional differential of an image can preserve the low-frequency contour feature in the smooth area, 
-and non-linearly keep high-frequency edge information and texture information.
+and non-linearly keep high-frequency edge information and texture information.   
 We proposed FID-CNN with a 8 layer CNN network to feature extraction and fractional total variational loss to preserve details of image. 
-Ablation experiments were carried out to demonstrate the effectiveness of the method.
-The corresponding paper is accepted by International Conference on Intelligent Computing 2018.
+Ablation experiments were carried out to demonstrate the effectiveness of the method.   
+The corresponding paper is accepted by International Conference on Intelligent Computing 2018.    
 
 #### [zbj.com](zbj.com) (September 2015 - February 2016)
-Front-End Engineer Intern, Chongqing, P.R. China 
-Image format update(from jpg/png -> webp).   
-Developed web sites [Bajie Account](cs.zbj.com), [Bajie City](city.zbj.com) pages   
+Front-End Engineer Intern, Chongqing, P.R. China   
+Image format update(from jpg/png -> webp).      
+Developed web sites [Bajie Account](cs.zbj.com), [Bajie City](city.zbj.com) pages     
 
 ---
 
 ## Technical Strengths
 
-Python (Tensorflow > Pytorch > Caffe), JavaScript
+Python (Tensorflow > Pytorch > Caffe), JavaScript   
