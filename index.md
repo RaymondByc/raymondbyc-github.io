@@ -8,11 +8,11 @@ layout: default
 
 Hi! I am a Graduate student of College of Computer Science at Sichuan University, China.
 
-I'm looking forward to opputunies for PhD of Computer Vision or Deep Learning
+I'm looking forward to opportunities for PhD of Computer Vision or Deep Learning.
 
 ## Education
 #### Sichuan University ( 2017/9 - 2020/6 )
-College of  Computer Science  
+[Tiansi Lab](http://tiansilab.org/en/index.jsp), College of  Computer Science  
 Major in Software Engineering  
 Master of Engineering, expected in 6/2020  
 Supervised under Prof. Yi-Fei Pu   
