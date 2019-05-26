@@ -13,14 +13,14 @@ I'm looking forward to opportunities for PhD of Computer Vision or Deep Learning
 ## Education
 #### Sichuan University ( 2017/9 - 2020/6 )
 [Tiansi Lab](http://tiansilab.org/en/index.jsp), College of  Computer Science  
-Master of Engineering, expected in 6/2020 
+Master of Engineering, expected in 6/2020   
 Major in Software Engineering  
 Supervised under Prof. Yi-Fei Pu   
 
 #### Chongqing University of Posts and Telecommunications ( 2013/9 - 2017/6 )
 School of Software Engineering  
-Bachelor of Engineering, received in 6/2017  
-Major in Software Engineering  
+Bachelor of Engineering, received in 6/2017    
+Major in Software Engineering    
 GPA: 3.28 / 4.0  
 
 ## Research Interests
