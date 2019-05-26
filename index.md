@@ -38,14 +38,17 @@ Image Despeckling
 
 ## Experience
 
-###### Illegal Action Detection of Court Scene in Surveillance Videos  March 2019 - Now
-As team leader, we try to recognise the illegal action in long untrimmed video.  
-We will release the dataset of simulating the illegal action in court (eating chips, fight, video shooting etc.)    
-We recognise with higher accuracy in two stages. At first stage, we detect the person of different roles in count to eliminate noises from background.    
-The final map is saved in a memory-friendly way to present a large-scale urban scene.
-The corresponding paper is recently submitted to the IEEE IROS 2019.
+#### Illegal Action Detection of Court Scene in Surveillance Videos  March 2019 - Now
+As team leader, we try to recognise the illegal action in long untrimmed videos.  
+We will release the dataset of simulating the illegal action in court (eating chips, fight, video shooting, etc.)    
+We recognise with higher accuracy in three stages.
+ At first stage, we detect the person of different roles in count to eliminate noises from background and scale the objects in same scale. 
+ The second part is temporal action proposal generation.
+ Finally, we will classify the action category with C3D and two-stream.
+I focus on the extremely low resolution action classification in surveillance videos,
+which is most challenging problem of our project. 
 
-###### 3D Semantic Reconstruction from a Monocular Camera with a Novel Multi-task Network August 2018 - February 2019
+#### 3D Semantic Reconstruction from a Monocular Camera with a Novel Multi-task Network August 2018 - February 2019
 We explore the interplay between low-level features for both depth and semantic prediction.
 The proposed network can produce the depth and semantic maps simultaneously, which provides basic knowledge for further semantic map reconstruction.  
 We apply image segmentation techniques to refine the depth prediction to reduce the fluctuations caused by convolution layers.
