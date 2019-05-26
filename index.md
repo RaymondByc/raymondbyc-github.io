@@ -63,7 +63,7 @@ We proposed FID-CNN with a 8 layer CNN network to feature extraction and fractio
 Ablation experiments were carried out to demonstrate the effectiveness of the method.   
 The corresponding paper is accepted by International Conference on Intelligent Computing 2018.    
 
-#### [zbj.com](zbj.com) Basic Technology Department (September 2015 - February 2016)
+#### [ZBJ.COM](zbj.com) Inc. Basic Technology Department (September 2015 - February 2016)
 Front-End Engineer Intern, Chongqing, P.R. China   
 Image format update(from jpg/png -> webp).      
 Developed web sites [Bajie Account](cs.zbj.com), [Bajie City](city.zbj.com) pages     
