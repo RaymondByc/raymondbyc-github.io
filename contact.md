@@ -3,24 +3,23 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [raymondbyc@gmail.com](mailto:raymondbyc@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+86-18582553046](tel:+86-18582553046)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Sichuan University, No.24 South Section 1, Yihuan Road
 >
-> London
+> Chengdu
 >
-> United Kingdom
+> China
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Zhihu](www.https://www.zhihu.com/people/bai-xiao-cai-94/activities)
+
