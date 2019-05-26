@@ -8,7 +8,7 @@ layout: default
 
 Hi! I am a Graduate student of College of Computer Science at Sichuan University, China.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I'm looking forward to  
 
 ## Research Interest
 
