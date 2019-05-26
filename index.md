@@ -8,7 +8,7 @@ layout: default
 
 Hi! I am a Graduate student of College of Computer Science at Sichuan University, China.
 
-I'm looking forward to opputunies
+I'm looking forward to opputunies for PhD of Computer Vision or Deep Learning
 
 ## Education
 #### Sichuan University ( 2017/9 - 2020/6 )
@@ -36,17 +36,22 @@ Image Despeckling
 2. Yucai Bai, Lei Fan, et al. __Monocular Outdoor Semantic Mapping with a Multi-task Network__, submitted to IROS2019 (under review)
 3. Yucai Bai, Qiang Dai, Yi-Fei Pu, et al. __Extremely Low Resolution Action Recognition with Distillation__.(under preparation)
 
-## Typography
+## Experience
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+###### Illegal Action Detection of Court Scene in Surveillance Videos  March 2019 - Now
+As team leader, we try to recognise the illegal action in long untrimmed video.  
+We will release the dataset of simulating the illegal action in court (eating chips, fight, video shooting etc.)    
+We recognise with higher accuracy in two stages. At first stage, we detect the person of different roles in count to eliminate noises from background.    
+The final map is saved in a memory-friendly way to present a large-scale urban scene.
+The corresponding paper is recently submitted to the IEEE IROS 2019.
 
-Here is a table
+###### 3D Semantic Reconstruction from a Monocular Camera with a Novel Multi-task Network August 2018 - February 2019
+We explore the interplay between low-level features for both depth and semantic prediction.
+The proposed network can produce the depth and semantic maps simultaneously, which provides basic knowledge for further semantic map reconstruction.  
+We apply image segmentation techniques to refine the depth prediction to reduce the fluctuations caused by convolution layers.
+The final map is saved in a memory-friendly way to present a large-scale urban scene.
+The corresponding paper is recently submitted to the IEEE IROS 2019. 
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
 
 Here is a horizontal rule
 
