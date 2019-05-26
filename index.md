@@ -8,16 +8,25 @@ layout: default
 
 Hi! I am a Graduate student of College of Computer Science at Sichuan University, China.
 
-I'm looking forward to  
+I'm looking forward to opputunies
 
-## Research Interest
+## Education
+#### Sichuan University ( 2017/9 - 2020/6 )
+College of  Computer Science  
+Major in Software Engineering  
+Master of Engineering, expected in 6/2020  
+Supervised under Prof. Yi-Fei Pu   
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+#### Chongqing University of Posts and Telecommunications ( 2013/9 - 2017/6 )
+School of Software Engineering
+Bachelor of Engineering, received in 6/2017  
+Major in Software Engineering  
+GPA: 3.28 / 4.0  
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. Bai Y C, Zhang S, Chen M, et al. A Fractional Total Variational CNN Approach for SAR Image Despeckling[C]//International Conference on Intelligent Computing. Springer, Cham, 2018: 431-442.
+2. Yucai Bai, Lei Fan, et al. Monocular Outdoor Semantic Mapping with a Multi-task Network 
 
 ## Typography
 
