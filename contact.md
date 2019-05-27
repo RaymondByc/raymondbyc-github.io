@@ -21,5 +21,5 @@ is_contact: true
 
 ## Social
 
-1. [Zhihu](www.zhihu.com/people/bai-xiao-cai-94/activities)
+1. [Zhihu](https://www.zhihu.com/people/bai-xiao-cai-94/activities)
 
