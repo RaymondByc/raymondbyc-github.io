@@ -42,11 +42,11 @@ Image Despeckling
 As team leader, we try to recognise the illegal action in long untrimmed videos.  
 We will release the dataset of simulating the illegal action in court (eating chips, fight, video shooting, etc.)    
 We recognise with higher accuracy in three stages.
- At first stage, we detect the person of different roles in count to eliminate noises from background and scale the objects in same scale. 
+ At the first stage, we detect the person of different roles in count to eliminate noises from background and scale the objects in same scale. 
  The second part is temporal action proposal generation.
  Finally, we will classify the action category with C3D and two-stream.  
 I focus on the extremely low resolution action classification in surveillance videos,
-which is most challenging problem of our project. 
+which is the most challenging problem of our project. 
 
 #### 3D Semantic Reconstruction from a Monocular Camera with a Novel Multi-task Network (August 2018 - February 2019)
 We explore the interplay between low-level features for both depth and semantic prediction.  
