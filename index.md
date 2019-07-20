@@ -31,9 +31,8 @@ Multi Learning
 Image Despeckling  
 
 ## Publications
-
-1. Yucai Bai, Sen Zhang, Miao Chen, et al. __A Fractional Total Variational CNN Approach for SAR Image Despeckling__, accepted by International Conference on Intelligent Computing 2018.[\[pdf\]](https://link.springer.com/chapter/10.1007/978-3-319-95957-3_46)[\[code\]](https://github.com/RaymondByc/FID-CNN)
-2. Yucai Bai, Lei Fan, et al. __Monocular Outdoor Semantic Mapping with a Multi-task Network__, submitted to IROS2019 (under review)
+1. Yucai Bai, Lei Fan, et al. __Monocular Outdoor Semantic Mapping with a Multi-task Network__, accepted by IROS2019 (under review)
+2. Yucai Bai, Sen Zhang, Miao Chen, et al. __A Fractional Total Variational CNN Approach for SAR Image Despeckling__, accepted by International Conference on Intelligent Computing 2018.[\[pdf\]](https://link.springer.com/chapter/10.1007/978-3-319-95957-3_46)[\[code\]](https://github.com/RaymondByc/FID-CNN)
 3. Yucai Bai, Qiang Dai, Yi-Fei Pu, et al. __Extremely Low Resolution Action Recognition with Distillation__.(under preparation)
 
 ## Experiences
