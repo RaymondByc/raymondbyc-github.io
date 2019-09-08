@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="portrait.jpg">
 
-Hi! I am a Graduate student of College of Computer Science at Sichuan University, China.
+Hi! I am a postgraduate student of College of Computer Science at [Sichuan University](http://en.scu.edu.cn), China.
 
-I'm looking forward to opportunities for PhD of Computer Vision or Deep Learning.
+I'm looking forward to PhD opportunities of Computer Vision.
 
 ## Education
 #### Sichuan University ( 2017/9 - 2020/6 )
@@ -24,21 +24,20 @@ Major in Software Engineering
 GPA: 3.28 / 4.0  
 
 ## Research Interests
-Action Recognition   
-Distillation  
-Semantic Segmentation  
-Multi Learning  
-Image Despeckling  
+Extreme Low-Resolution Action Recognition   
+Semantic 3D Map
+Multi Learning and Transfer Learning 
+Active Vision
 
 ## Publications
-1. Yucai Bai, Lei Fan, et al. __Monocular Outdoor Semantic Mapping with a Multi-task Network__, accepted by IROS2019
-2. Yucai Bai, Sen Zhang, Miao Chen, et al. __A Fractional Total Variational CNN Approach for SAR Image Despeckling__, accepted by International Conference on Intelligent Computing 2018.[\[pdf\]](https://link.springer.com/chapter/10.1007/978-3-319-95957-3_46)[\[code\]](https://github.com/RaymondByc/FID-CNN)
-3. Yucai Bai, Qiang Dai, Yi-Fei Pu, et al. __Extremely Low Resolution Action Recognition with Distillation__.(under preparation)
+1. Yucai Bai, Qiang Dai, Long Chen, et al. __Extremely Low Resolution Action Recognition with Spatial-Temporal Attention Transfer__.(submitted to AAAI2020)
+2. Yucai Bai, Lei Fan, et al. __Monocular Outdoor Semantic Mapping with a Multi-task Network__, accepted by IROS2019
+3. Yucai Bai, Sen Zhang, Miao Chen, et al. __A Fractional Total Variational CNN Approach for SAR Image Despeckling__, accepted by International Conference on Intelligent Computing 2018.[\[pdf\]](https://link.springer.com/chapter/10.1007/978-3-319-95957-3_46)[\[code\]](https://github.com/RaymondByc/FID-CNN)
 
 ## Experiences
 
 #### Illegal Action Detection of Court Scene in Surveillance Videos  (March 2019 - Now)
-As team leader, we try to recognise the illegal action in long untrimmed videos.  
+As the team leader, we try to recognise the non-compliance actions in real-time and detect that offline for review.
 We will release the dataset of simulating the illegal action in court (eating chips, fight, video shooting, etc.)    
 We recognise with higher accuracy in three stages.
  At the first stage, we detect the person of different roles in count to eliminate noises from background and scale the objects in same scale. 
