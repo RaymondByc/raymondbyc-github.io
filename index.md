@@ -30,9 +30,10 @@ Multi Learning and Transfer Learning
 Active Vision
 
 ## Publications
-1. Yucai Bai, Qiang Dai, Long Chen, et al. __Extremely Low Resolution Action Recognition with Spatial-Temporal Attention Transfer__.(submitted to AAAI2020)
-2. Yucai Bai, Lei Fan, et al. __Monocular Outdoor Semantic Mapping with a Multi-task Network__, accepted by IROS2019
-3. Yucai Bai, Sen Zhang, Miao Chen, et al. __A Fractional Total Variational CNN Approach for SAR Image Despeckling__, accepted by International Conference on Intelligent Computing 2018.[\[pdf\]](https://link.springer.com/chapter/10.1007/978-3-319-95957-3_46)[\[code\]](https://github.com/RaymondByc/FID-CNN)
+1. __Yucai Bai__, Qiang Dai, Long Chen*, et al. __Extremely Low Resolution Action Recognition with Spatial-Temporal Attention Transfer__.(submitted to AAAI2020)
+2. __Yucai Bai__, Lei Fan, et al. __Monocular Outdoor Semantic Mapping with a Multi-task Network__, accepted by IROS2019 [\[PDF\]](https://arxiv.org/abs/1901.05807)
+3. __Yucai Bai__, Sen Zhang, Miao Chen, et al. __A Fractional Total Variational CNN Approach for SAR Image Despeckling__, accepted by International Conference on Intelligent Computing 2018.[\[pdf\]](https://link.springer.com/chapter/10.1007/978-3-319-95957-3_46)[\[code\]](https://github.com/RaymondByc/FID-CNN)
+4. Miao Chen, Yi-Fei Pu, __Yu-Cai Bai__, __A Fractional-Order Variational Residual CNN for Low Dose CT Image Denoising__, accepted by International Conference on Intelligent Computing 2019. pp 238-249
 
 ## Experiences
 
@@ -73,6 +74,19 @@ Developed web sites [Bajie Account](cs.zbj.com), [Bajie City](city.zbj.com) page
 
 ---
 
+## Honors
+- Second Prize Merit-based Scholarship, SCU 7/2019
+- Second Prize, 6th Teda · Huabo Cup, Action Recognition Track 6/2019 
+- Excellent postgraduate student, SCU 9/2018 
+- Excellent Graduation Thesis, CQUPT 6/2017
+- Third Prize Merit-based Scholarship, CQUPT 9/2015 
+
+
 ## Technical Strengths
 
-Python (Tensorflow > Pytorch > Caffe), JavaScript   
+Python (Tensorflow > Pytorch > Caffe), JavaScript
+
+## English Language Level
+
+IELTS: 5.5 (working on it !!!)
+CET6
