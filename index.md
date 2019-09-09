@@ -54,22 +54,22 @@ __The corresponding paper is submitted to AAAI 2020.__
 
 #### 3D Semantic Reconstruction from a Monocular Camera with a Novel Multi-task Network (August 2018 - February 2019)
 We explore the interplay between low-level features for both depth and semantic prediction.  
-The proposed network can produce the depth and semantic maps simultaneously, which provides basic knowledge for further semantic map reconstruction.    
-We apply image segmentation techniques to refine the depth prediction to reduce the fluctuations caused by convolution layers.   
-The final map is saved in a memory-friendly way to present a large-scale urban scene.  
-The corresponding paper is recently submitted to the IEEE IROS 2019.   
+The proposed network can produce __the depth and semantic maps simultaneously__, which provides basic knowledge for further semantic map reconstruction.    
+We apply __image segmentation techniques__ to __refine the depth prediction__ to reduce the fluctuations caused by convolution layers.   
+The final map is saved in __a memory-friendly way__ to present a large-scale urban scene.  
+__The corresponding paper is recently submitted to the IEEE IROS 2019.__   
 
 #### SAR Image Despeckling with Fractional Total Variational Loss (November 2017 - May 2018)
-Motivated in \<Fractional Calculus Application\> Course, we tried to apply fractional calculus to image denoising.   
-In terms of long-term memory, non-locality, and weak singularity, fractional differential of an image can preserve the low-frequency contour feature in the smooth area, 
-and non-linearly keep high-frequency edge information and texture information.   
-We proposed FID-CNN with a 8 layer CNN network to feature extraction and fractional total variational loss to preserve details of image. 
+Motivated in __\<Fractional Calculus Application\>__ Course, we tried to apply fractional calculus to image denoising.   
+In terms of __long-term memory, non-locality, and weak singularity,__ fractional differential of an image can preserve __the low-frequency contour feature in the smooth area, 
+and non-linearly keep high-frequency edge information and texture information.__
+We proposed __FID-CNN__ with a 8 layer CNN network to feature extraction and fractional total variational loss to preserve details of image. 
 Ablation experiments were carried out to demonstrate the effectiveness of the method.   
-The corresponding paper is accepted by International Conference on Intelligent Computing 2018.    
+__The corresponding paper is accepted by International Conference on Intelligent Computing 2018.__ 
 
 #### [ZBJ.COM](https://zbj.com) Inc.  Basic Technology Department (September 2015 - February 2016)
-Front-End Engineer Intern, Chongqing, P.R. China   
-Image format update(from jpg/png -> webp).      
+__Front-End Engineer Intern__, Chongqing, P.R. China   
+Image Format Update(from jpg/png -> webp).      
 Developed web sites [Bajie Account](https://cs.zbj.com), [Bajie City](https://city.zbj.com) pages     
 
 ---
