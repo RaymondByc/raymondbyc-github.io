@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="portrait.jpg">
 
-Hi! I am a postgraduate student of College of Computer Science at [Sichuan University](http://en.scu.edu.cn), China.
+Hi! I am a graduate student of College of Computer Science at [Sichuan University](http://en.scu.edu.cn), China.
 
 I'm looking forward to PhD opportunities of Computer Vision.
 
@@ -36,15 +36,20 @@ Active Vision
 
 ## Experiences
 
-#### Illegal Action Detection of Court Scene in Surveillance Videos  (March 2019 - Now)
-As the team leader, we try to recognise the non-compliance actions in real-time and detect that offline for review.
-We will release the dataset of simulating the illegal action in court (eating chips, fight, video shooting, etc.)    
-We recognise with higher accuracy in three stages.
- At the first stage, we detect the person of different roles in count to eliminate noises from background and scale the objects in same scale. 
- The second part is temporal action proposal generation.
- Finally, we will classify the action category with C3D and two-stream.  
-I focus on the extremely low resolution action classification in surveillance videos,
-which is the most challenging problem of our project. 
+#### Non-compliance Action Detection of Court Scene in Surveillance Videos  (March 2019 - Present)
+As the team leader, I designed and led the entire project,  including  __a detection algorithm of the count non-compliance actions in real-time__ and __the production of corresponding datasets__.
+The detection is divided into two stages.  
+Firstly, we use the __object detection__ algorithm to detect people and crop the corresponding area. 
+Then we use the __image-based algorithm__ to process the easy-to-classify categories and __3D convolution network__ for more complex actions.
+
+We won __2nd__ in the action recognition track of __Teda·Huabo cup innovation and entrepreneurship challenge__
+
+#### Extreme Low Resolution Action Recognition (May 2019 -- Present)
+
+In order to solve the problem that the target in the back corner of the court is too small, we proposed a new method to recognize __Extreme Low-Resolution Action}.__
+We make full use of the __high-resolution information__ of __separate spatial and temporal features__ to promote low resolution recognition by __acquiring better attention__.
+Experiments show that our proposed method can improve LR recognition accuracy __up to 4.4\%__. The results achieve __ state-of-the-art performance__ on 12*16 HMDB51.\\
+__The corresponding paper is submitted to AAAI 2020.__
 
 #### 3D Semantic Reconstruction from a Monocular Camera with a Novel Multi-task Network (August 2018 - February 2019)
 We explore the interplay between low-level features for both depth and semantic prediction.  
