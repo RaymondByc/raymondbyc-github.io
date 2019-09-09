@@ -70,7 +70,7 @@ The corresponding paper is accepted by International Conference on Intelligent C
 #### [ZBJ.COM](https://zbj.com) Inc.  Basic Technology Department (September 2015 - February 2016)
 Front-End Engineer Intern, Chongqing, P.R. China   
 Image format update(from jpg/png -> webp).      
-Developed web sites [Bajie Account](cs.zbj.com), [Bajie City](city.zbj.com) pages     
+Developed web sites [Bajie Account](https://cs.zbj.com), [Bajie City](https://city.zbj.com) pages     
 
 ---
 
