@@ -76,7 +76,6 @@ __The corresponding paper is accepted by International Conference on Intelligent
 Work in Basic Technology Department.
 
 Image Format Update(from jpg/png -> webp).       
-
 Developed web sites [Bajie Account](https://cs.zbj.com), [Bajie City](https://city.zbj.com) pages     
 
 ---
