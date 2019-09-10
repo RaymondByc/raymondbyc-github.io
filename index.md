@@ -71,7 +71,7 @@ Ablation experiments were carried out to demonstrate the effectiveness of the me
 __The corresponding paper is accepted by International Conference on Intelligent Computing 2018.__ 
 
 ### [ZBJ.COM](https://zbj.com) Inc.  Basic Technology Department (September 2015 - February 2016)
-__Front-End Engineer Intern__, Chongqing, P.R. China   
+__Front-End Engineer Intern__ 
 
 Image Format Update(from jpg/png -> webp).       
 
