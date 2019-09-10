@@ -76,7 +76,7 @@ Developed web sites [Bajie Account](https://cs.zbj.com), [Bajie City](https://ci
 
 ## Honors
 - Second Prize Merit-based Scholarship, SCU 7/2019
-- Second Prize, 6th Teda · Huabo Cup, Action Recognition Track 6/2019 
+- Second Prize, 6th Teda · Huabo Cup, Action Recognition Track, 6/2019 
 - Excellent postgraduate student, SCU 9/2018 
 - Excellent Graduation Thesis, CQUPT 6/2017
 - Third Prize Merit-based Scholarship, CQUPT 9/2015 
