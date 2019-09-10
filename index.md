@@ -50,6 +50,7 @@ We won __2nd__ in the action recognition track of __Teda·Huabo cup innovation a
 In order to solve the problem that the target in the back corner of the court is too small, we proposed a new method to recognize __Extreme Low-Resolution Action}.__
 We make full use of the __high-resolution information__ of __separate spatial and temporal features__ to promote low resolution recognition by __acquiring better attention__.
 Experiments show that our proposed method can improve LR recognition accuracy __up to 4.4%__. The results achieve __ state-of-the-art performance__ on 12*16 HMDB51.\\
+
 __The corresponding paper is submitted to AAAI 2020.__
 
 #### 3D Semantic Reconstruction from a Monocular Camera with a Novel Multi-task Network (August 2018 - February 2019)
@@ -57,6 +58,7 @@ We explore the interplay between low-level features for both depth and semantic 
 The proposed network can produce __the depth and semantic maps simultaneously__, which provides basic knowledge for further semantic map reconstruction.    
 We apply __image segmentation techniques__ to __refine the depth prediction__ to reduce the fluctuations caused by convolution layers.   
 The final map is saved in __a memory-friendly way__ to present a large-scale urban scene.  
+
 __The corresponding paper is recently submitted to the IEEE IROS 2019.__   
 
 #### SAR Image Despeckling with Fractional Total Variational Loss (November 2017 - May 2018)
@@ -65,6 +67,7 @@ In terms of __long-term memory, non-locality, and weak singularity,__ fractional
 and non-linearly keep high-frequency edge information and texture information.__
 We proposed __FID-CNN__ with a 8 layer CNN network to feature extraction and fractional total variational loss to preserve details of image. 
 Ablation experiments were carried out to demonstrate the effectiveness of the method.   
+
 __The corresponding paper is accepted by International Conference on Intelligent Computing 2018.__ 
 
 #### [ZBJ.COM](https://zbj.com) Inc.  Basic Technology Department (September 2015 - February 2016)
