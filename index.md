@@ -49,7 +49,7 @@ We won __2nd__ in the action recognition track of __Teda·Huabo cup innovation a
 
 In order to solve the problem that the target in the back corner of the court is too small, we proposed a new method to recognize __Extreme Low-Resolution Action}.__
 We make full use of the __high-resolution information__ of __separate spatial and temporal features__ to promote low resolution recognition by __acquiring better attention__.
-Experiments show that our proposed method can improve LR recognition accuracy __up to 4.4%__. The results achieve __ state-of-the-art performance__ on 12*16 HMDB51.
+Experiments show that our proposed method can improve LR recognition accuracy __up to 4.4%__. The results achieve __state-of-the-art performance__ on 12*16 HMDB51.
 
 __The corresponding paper is submitted to AAAI 2020.__
 
@@ -70,8 +70,10 @@ Ablation experiments were carried out to demonstrate the effectiveness of the me
 
 __The corresponding paper is accepted by International Conference on Intelligent Computing 2018.__ 
 
-### [ZBJ.COM](https://zbj.com) Inc.  Basic Technology Department (September 2015 - February 2016)
-__Front-End Engineer Intern__ 
+### [ZBJ.COM](https://zbj.com) Inc.   Front-End Engineer Intern (September 2015 - February 2016)
+
+
+Work in Basic Technology Department.
 
 Image Format Update(from jpg/png -> webp).       
 
