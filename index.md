@@ -59,7 +59,7 @@ The proposed network can produce __the depth and semantic maps simultaneously__,
 We apply __image segmentation techniques__ to __refine the depth prediction__ to reduce the fluctuations caused by convolution layers.   
 The final map is saved in __a memory-friendly way__ to present a large-scale urban scene.  
 
-__The corresponding paper is recently submitted to the IEEE IROS 2019.__   
+__The corresponding paper is recently submitted to the IROS 2019.__   
 
 ### SAR Image Despeckling with Fractional Total Variational Loss (November 2017 - May 2018)
 Motivated in __\<Fractional Calculus Application\>__ Course, we tried to apply fractional calculus to image denoising.   
