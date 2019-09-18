@@ -16,6 +16,7 @@ I'm looking forward to PhD opportunities of Computer Vision.
 Master of Engineering, expected in 6/2020   
 Major in Software Engineering  
 Supervised under Prof. Yi-Fei Pu   
+GPA: 3.20 / 4.0  
 
 #### Chongqing University of Posts and Telecommunications ( 2013/9 - 2017/6 )
 School of Software Engineering  
