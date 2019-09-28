@@ -44,6 +44,8 @@ The detection is divided into two stages.
 Firstly, we use the __object detection__ algorithm to detect people and crop the corresponding area. 
 Then we use the __image-based algorithm__ to process the easy-to-classify categories and __3D convolution network__ for more complex actions.
 
+![TedaCUP](images/teda.gif)
+
 We won __2nd__ in the action recognition track of __Teda·Huabo cup innovation and entrepreneurship challenge__
 
 ### Extreme Low Resolution Action Recognition (2019.5 - Present)
