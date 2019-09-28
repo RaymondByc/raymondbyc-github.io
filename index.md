@@ -46,7 +46,7 @@ Then we use the __image-based algorithm__ to process the easy-to-classify catego
 
 We won __2nd__ in the action recognition track of __Teda·Huabo cup innovation and entrepreneurship challenge__
 
-<div style="text-align:center;"><img src="images/teda.gif" width="50%" text-align="center"></div>
+<div style="text-align:center;"><img src="images/teda.gif" width="30%" text-align="center"></div>
 
 ### Extreme Low Resolution Action Recognition (2019.5 - Present)
 
@@ -81,7 +81,7 @@ Ablation experiments were carried out to demonstrate the effectiveness of the me
 
 __The corresponding paper is accepted by International Conference on Intelligent Computing 2018.__ 
 
-<img src="images/FID.png" width="100%">
+<div style="text-align:center;"><img src="images/FID.png" width="70%"></div>
 
 ### [ZBJ.COM](https://zbj.com) Inc.   Front-End Engineer Intern (2015.9 - 2016.2)
 
