@@ -55,6 +55,9 @@ Experiments show that our proposed method can improve LR recognition accuracy __
 __The corresponding paper is submitted to AAAI 2020.__
 
 ### 3D Semantic Reconstruction from a Monocular Camera with a Novel Multi-task Network (2018.8 - 2019.2)
+
+This work was performed when I was visiting Sun Yat-sen University as a visiting student, under the supervision of [Prof.Chen](http://carlib.net/).   
+
 We explore the interplay between low-level features for both depth and semantic prediction.  
 The proposed network can produce __the depth and semantic maps simultaneously__, which provides basic knowledge for further semantic map reconstruction.    
 We apply __image segmentation techniques__ to __refine the depth prediction__ to reduce the fluctuations caused by convolution layers.   
