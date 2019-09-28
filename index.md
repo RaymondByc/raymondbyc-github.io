@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="portrait.jpg">
 
-Hi! I am a graduate student of College of Computer Science at [Sichuan University](http://en.scu.edu.cn), China.
+Hi! I am a graduate student of the College of Computer Science at [Sichuan University](http://en.scu.edu.cn), China.
 
-I'm looking forward to a PhD opportunity of Computer Vision and Machine Learning.
+I am looking forward to a PhD opportunity of Computer Vision and Machine Learning.
 
 ## Education
 #### Sichuan University ( 2017.9 - 2020.6 )
