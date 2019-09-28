@@ -15,7 +15,7 @@ I am looking forward to a PhD opportunity of Computer Vision and Machine Learnin
 [Tiansi Lab](http://tiansilab.org/en/index.jsp), College of  Computer Science  
 Master of Engineering, expected in 2020.6   
 Major in Software Engineering  
-Supervised under Prof. Yi-Fei Pu   
+Supervised under [Prof. Yi-Fei Pu](https://ieeexplore.ieee.org/author/37269178400)   
 GPA: 3.20 / 4.0  
 
 #### Chongqing University of Posts and Telecommunications ( 2013.9 - 2017.6 )
