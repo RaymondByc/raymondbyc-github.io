@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About Me
+## About Me
 
 <img class="profile-picture" src="portrait.jpg">
 
@@ -10,7 +10,7 @@ Hi! I am a graduate student of the College of Computer Science at [Sichuan Unive
 
 I am looking forward to a PhD opportunity of Computer Vision and Machine Learning.
 
-# Education
+## Education
 ### Sichuan University ( 2017.9 - 2020.6 )
 [Tiansi Lab](http://tiansilab.org/en/index.jsp), College of  Computer Science  
 Master of Engineering, expected in 2020.6   
@@ -24,21 +24,21 @@ Bachelor of Engineering, received in 2017.6
 Major in Software Engineering    
 GPA: 3.28 / 4.0  
 
-# Research Interests
+## Research Interests
 - Extreme Low-Resolution Action Recognition   
 - Semantic 3D Map
 - Multi Learning and Transfer Learning 
 - Robots Vision (Active Vision)
 
-# Publications
+## Publications
 1. __Yucai Bai__, Qiang Dai, Long Chen*, et al. __Extremely Low Resolution Action Recognition with Spatial-Temporal Attention Transfer__ (submitted to AAAI2020)[\[PDF\]](https://arxiv.org/pdf/1909.03580.pdf)
 2. __Yucai Bai__, Lei Fan, et al. __Monocular Outdoor Semantic Mapping with a Multi-task Network__, accepted by IEEE/RSJ International Conference onIntelligent Robots and Systems(IROS) 2019 [\[PDF\]](https://arxiv.org/abs/1901.05807)[\[VIDEO\]](https://www.youtube.com/watch?v=PuVFtVPx3MQ)[\[CODE\]](https://github.com/RaymondByc/segm_depth_network)
 3. __Yucai Bai__, Sen Zhang, Miao Chen, et al. __A Fractional Total Variational CNN Approach for SAR Image Despeckling__, accepted by International Conference on Intelligent Computing(ICIC) 2018 [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-319-95957-3_46)[\[CODE\]](https://github.com/RaymondByc/FID-CNN)
 4. Miao Chen, Yi-Fei Pu, __Yu-Cai Bai__, __A Fractional-Order Variational Residual CNN for Low Dose CT Image Denoising__, accepted by International Conference on Intelligent Computing(ICIC) 2019
 
-# Experiences
+## Experiences
 
-## Non-compliance Action Detection of Court Scene in Surveillance Videos  (2019.3 - Present)
+### Non-compliance Action Detection of Court Scene in Surveillance Videos  (2019.3 - Present)
 As the team leader, I designed and led the entire project,  including  __a detection algorithm of the count non-compliance actions in real-time__ and __the production of corresponding datasets__.   
 The detection is divided into two stages.  Firstly, we use the __object detection__ algorithm to detect people and crop the corresponding area. 
 Then we use the __image-based algorithm__ to process the easy-to-classify categories and __3D convolution network__ for more complex actions.
@@ -47,7 +47,7 @@ We won __2nd__ in the action recognition track of __Teda·Huabo cup innovation a
 
 <div style="text-align:center;"><img src="images/teda.gif" width="30%" text-align="center"></div>
 
-## Extreme Low Resolution Action Recognition (2019.5 - Present)
+### Extreme Low Resolution Action Recognition (2019.5 - Present)
 
 In order to solve the problem that the target in the back corner of the court is too small, we proposed a new method to recognize __Extreme Low-Resolution Action}.__
 We make full use of the __high-resolution information__ of __separate spatial and temporal features__ to promote low resolution recognition by __acquiring better attention__.
@@ -58,7 +58,7 @@ __The corresponding paper is submitted to AAAI 2020.__
 <img src="images/ELR.png" width="100%">
 
 
-## 3D Semantic Reconstruction from a Monocular Camera with a Novel Multi-task Network (2018.8 - 2019.2)
+### 3D Semantic Reconstruction from a Monocular Camera with a Novel Multi-task Network (2018.8 - 2019.2)
 
 This work was performed when I was visiting Sun Yat-sen University as a visiting student, under the supervision of [Prof.Chen](http://carlib.net/).   
 
@@ -71,7 +71,7 @@ __The corresponding paper is accepted by IROS 2019.__
 
 <img src="images/3D_Semantic_Restruction.png" width="100%">
 
-## SAR Image Despeckling with Fractional Total Variational Loss (2017.11 - 2018.5)
+### SAR Image Despeckling with Fractional Total Variational Loss (2017.11 - 2018.5)
 Motivated in __Fractional Calculus Application__ Course, we tried to apply fractional calculus to image denoising.   
 In terms of __long-term memory, non-locality, and weak singularity,__ fractional differential of an image can preserve __the low-frequency contour feature in the smooth area, 
 and non-linearly keep high-frequency edge information and texture information.__
@@ -82,7 +82,7 @@ __The corresponding paper is accepted by International Conference on Intelligent
 
 <div style="text-align:center;"><img src="images/FID.png" width="70%"></div>
 
-## [ZBJ.COM](https://zbj.com) Inc.   Front-End Engineer Intern (2015.9 - 2016.2)
+### [ZBJ.COM](https://zbj.com) Inc.   Front-End Engineer Intern (2015.9 - 2016.2)
 
 
 Work in Basic Technology Department.
@@ -92,7 +92,7 @@ Developed web sites [Bajie Account](https://cs.zbj.com), [Bajie City](https://ci
 
 ---
 
-# Honors
+## Honors
 - Second Prize Merit-based Scholarship, SCU 2019.7
 - Second Prize, 6th Teda · Huabo Cup, Action Recognition Track, 2019.6
 - Excellent Postgraduate Student, SCU 2018.9 
@@ -100,11 +100,11 @@ Developed web sites [Bajie Account](https://cs.zbj.com), [Bajie City](https://ci
 - Third Prize Merit-based Scholarship, CQUPT 2015.9
 
 
-# Technical Strengths
+## Technical Strengths
 
 Python (Tensorflow > Pytorch > Caffe), JavaScript
 
-# English Language Level
+## English Language Level
 
 IELTS: 5.5 (working on it !!!)     
 CET6
