@@ -11,16 +11,16 @@ Hi! I am a graduate student of College of Computer Science at [Sichuan Universit
 I'm looking forward to a PhD opportunity of Computer Vision and Machine Learning.
 
 ## Education
-#### Sichuan University ( 2017/9 - 2020/6 )
+#### Sichuan University ( 2017.9 - 2020.6 )
 [Tiansi Lab](http://tiansilab.org/en/index.jsp), College of  Computer Science  
-Master of Engineering, expected in 6/2020   
+Master of Engineering, expected in 2020.6   
 Major in Software Engineering  
 Supervised under Prof. Yi-Fei Pu   
 GPA: 3.20 / 4.0  
 
-#### Chongqing University of Posts and Telecommunications ( 2013/9 - 2017/6 )
+#### Chongqing University of Posts and Telecommunications ( 2013.9 - 2017.6 )
 School of Software Engineering  
-Bachelor of Engineering, received in 6/2017    
+Bachelor of Engineering, received in 2017.6    
 Major in Software Engineering    
 GPA: 3.28 / 4.0  
 
@@ -82,11 +82,11 @@ Developed web sites [Bajie Account](https://cs.zbj.com), [Bajie City](https://ci
 ---
 
 ## Honors
-- Second Prize Merit-based Scholarship, SCU 7/2019
-- Second Prize, 6th Teda · Huabo Cup, Action Recognition Track, 6/2019 
-- Excellent Postgraduate Student, SCU 9/2018 
-- Excellent Graduation Thesis, CQUPT 6/2017
-- Third Prize Merit-based Scholarship, CQUPT 9/2015 
+- Second Prize Merit-based Scholarship, SCU 2019.7
+- Second Prize, 6th Teda · Huabo Cup, Action Recognition Track, 2019.6
+- Excellent Postgraduate Student, SCU 2018.9 
+- Excellent Graduation Thesis, CQUPT 2017.6
+- Third Prize Merit-based Scholarship, CQUPT 2015.9
 
 
 ## Technical Strengths
