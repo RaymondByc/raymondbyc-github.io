@@ -46,16 +46,13 @@ Then we use the __image-based algorithm__ to process the easy-to-classify catego
 
 We won __2nd__ in the action recognition track of __Teda·Huabo cup innovation and entrepreneurship challenge__
 
-<img src="images/teda.gif" width="100px" height="100px">
-
-
 ### Extreme Low Resolution Action Recognition (2019.5 - Present)
 
 In order to solve the problem that the target in the back corner of the court is too small, we proposed a new method to recognize __Extreme Low-Resolution Action}.__
 We make full use of the __high-resolution information__ of __separate spatial and temporal features__ to promote low resolution recognition by __acquiring better attention__.
 Experiments show that our proposed method can improve LR recognition accuracy __up to 4.4%__. The results achieve __state-of-the-art performance__ on 12*16 HMDB51.
 
-<img src="images/ELR.png" width="100%">
+![ELR](images/ELR.png)
 
 __The corresponding paper is submitted to AAAI 2020.__
 
