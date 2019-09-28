@@ -72,7 +72,7 @@ __The corresponding paper is accepted by IROS 2019.__
 <img src="images/3D_Semantic_Restruction.png" width="100%">
 
 ### SAR Image Despeckling with Fractional Total Variational Loss (2017.11 - 2018.5)
-Motivated in __Fractional Calculus Application__ Course, we tried to apply fractional calculus to image denoising.   
+Motivated in __Applications in Fractional Calculus__ Course, we tried to apply fractional calculus to image denoising.   
 In terms of __long-term memory, non-locality, and weak singularity,__ fractional differential of an image can preserve __the low-frequency contour feature in the smooth area, 
 and non-linearly keep high-frequency edge information and texture information.__
 We proposed __FID-CNN__ with a 8 layer CNN network to feature extraction and fractional total variational loss to preserve details of image. 
