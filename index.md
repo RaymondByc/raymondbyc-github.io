@@ -46,7 +46,7 @@ Then we use the __image-based algorithm__ to process the easy-to-classify catego
 
 We won __2nd__ in the action recognition track of __Teda·Huabo cup innovation and entrepreneurship challenge__
 
-<img src="images/teda.gif" width="50%" text-align="center">
+<div style="text-align:center;"><img src="images/teda.gif" width="50%" text-align="center"></div>
 
 ### Extreme Low Resolution Action Recognition (2019.5 - Present)
 
