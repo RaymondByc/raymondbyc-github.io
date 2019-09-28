@@ -46,6 +46,8 @@ Then we use the __image-based algorithm__ to process the easy-to-classify catego
 
 We won __2nd__ in the action recognition track of __Teda·Huabo cup innovation and entrepreneurship challenge__
 
+<img src="images/teda.png" width="50%" text-align="center">
+
 ### Extreme Low Resolution Action Recognition (2019.5 - Present)
 
 In order to solve the problem that the target in the back corner of the court is too small, we proposed a new method to recognize __Extreme Low-Resolution Action}.__
@@ -54,7 +56,7 @@ Experiments show that our proposed method can improve LR recognition accuracy __
 
 __The corresponding paper is submitted to AAAI 2020.__
 
-![ELR](images/ELR.png)
+<img src="images/ELR.png" width="100%">
 
 
 ### 3D Semantic Reconstruction from a Monocular Camera with a Novel Multi-task Network (2018.8 - 2019.2)
@@ -68,7 +70,7 @@ The final map is saved in __a memory-friendly way__ to present a large-scale urb
 
 __The corresponding paper is accepted by IROS 2019.__   
 
-![3D_Semantic_Restruction](images/3D_Semantic_Restruction.png)
+<img src="images/3D_Semantic_Restruction.png" width="100%">
 
 ### SAR Image Despeckling with Fractional Total Variational Loss (2017.11 - 2018.5)
 Motivated in __\<Fractional Calculus Application\>__ Course, we tried to apply fractional calculus to image denoising.   
