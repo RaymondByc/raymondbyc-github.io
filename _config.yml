@@ -5,7 +5,7 @@ baseurl: ""
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
-tracking_id: G-P8KTMD4X17
+tracking_id: UA-148972084-1
 
 footer: yes
 footer_url: "https://github.com/raymondbyc"
