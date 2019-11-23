@@ -53,7 +53,7 @@ In order to solve the problem that the target in the back corner of the court is
 We make full use of the __high-resolution information__ of __separate spatial and temporal features__ to promote low resolution recognition by __acquiring better attention__.
 Experiments show that our proposed method can improve LR recognition accuracy __up to 4.4%__. The results achieve __state-of-the-art performance__ on 12*16 HMDB51.
 
-__The corresponding paper is submitted to AAAI 2020.__
+__The corresponding paper is submitted to CVPR 2020.__
 
 <div style="text-align:center;"><img src="images/ELR.png" width="100%" text-align="center"></div>
 
