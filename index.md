@@ -69,7 +69,7 @@ The final map is saved in __a memory-friendly way__ to present a large-scale urb
 
 __The corresponding paper is accepted by IROS 2019.__   
 
-<img src="images/3D_Semantic_Restruction.png" width="100%">
+<img src="images/3D_Semantic_Restruction.png" width="75%">
 
 ### SAR Image Despeckling with Fractional Total Variational Loss (2017.11 - 2018.5)
 Motivated in __Applications in Fractional Calculus__ Course, we tried to apply fractional calculus to image denoising.   
