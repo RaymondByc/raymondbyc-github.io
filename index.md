@@ -55,7 +55,7 @@ Experiments show that our proposed method can improve LR recognition accuracy __
 
 __The corresponding paper is submitted to CVPR 2020.__
 
-<div style="text-align:center;"><img src="images/ELR.png" width="100%" text-align="center"></div>
+<div style="text-align:center;"><img src="images/ELR.png" width="70%" text-align="center"></div>
 
 
 ### 3D Semantic Reconstruction from a Monocular Camera with a Novel Multi-task Network (2018.8 - 2019.2)
