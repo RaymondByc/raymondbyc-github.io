@@ -106,5 +106,5 @@ Python (Tensorflow > Pytorch > Caffe), JavaScript
 
 ## English Language Level
 
-IELTS: 5.5 (working on it !!!)     
+IELTS: 6.0 (working on it !!!)     
 CET6
