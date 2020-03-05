@@ -8,7 +8,7 @@ layout: default
 
 Hi! I am a graduate student of the College of Computer Science at [Sichuan University](http://en.scu.edu.cn), China.
 
-I am looking forward to a PhD opportunity of Computer Vision and Machine Learning.
+I am looking forward to a PhD or job opportunity of Computer Vision and Machine Learning.
 
 ## Education
 ### Sichuan University ( 2017.9 - 2020.6 )
@@ -31,7 +31,7 @@ GPA: 3.28 / 4.0
 - Robots Vision (Active Vision)
 
 ## Publications
-1. __Yucai Bai__, Qiang Dai, Long Chen*, et al. __Extremely Low Resolution Action Recognition with Spatial-Temporal Attention Transfer__ (submitted to CVPR2020)[\[PDF\]](https://arxiv.org/pdf/1909.03580.pdf)
+1. __Yucai Bai__, Qiang Dai, Long Chen*, et al. __Extremely Low Resolution Action Recognition with Spatial-Temporal Attention Transfer__ (submitted to ECCV2020)[\[PDF\]](https://arxiv.org/pdf/1909.03580.pdf)
 2. __Yucai Bai__, Lei Fan, et al. __Monocular Outdoor Semantic Mapping with a Multi-task Network__, accepted by IEEE/RSJ International Conference onIntelligent Robots and Systems(IROS) 2019 [\[PDF\]](https://arxiv.org/abs/1901.05807)[\[VIDEO\]](https://www.youtube.com/watch?v=PuVFtVPx3MQ)[\[CODE\]](https://github.com/RaymondByc/segm_depth_network)
 3. __Yucai Bai__, Sen Zhang, Miao Chen, et al. __A Fractional Total Variational CNN Approach for SAR Image Despeckling__, accepted by International Conference on Intelligent Computing(ICIC) 2018 [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-319-95957-3_46)[\[CODE\]](https://github.com/RaymondByc/FID-CNN)
 4. Miao Chen, Yi-Fei Pu, __Yu-Cai Bai__, __A Fractional-Order Variational Residual CNN for Low Dose CT Image Denoising__, accepted by International Conference on Intelligent Computing(ICIC) 2019
@@ -53,7 +53,7 @@ In order to solve the problem that the target in the back corner of the court is
 We make full use of the __high-resolution information__ of __separate spatial and temporal features__ to promote low resolution recognition by __acquiring better attention__.
 Experiments show that our proposed method can improve LR recognition accuracy __up to 4.4%__. The results achieve __state-of-the-art performance__ on 12*16 HMDB51.
 
-__The corresponding paper is submitted to CVPR 2020.__
+__The corresponding paper is submitted to ECCV 2020.__
 
 <div style="text-align:center;"><img src="images/ELR.png" width="70%" text-align="center"></div>
 
