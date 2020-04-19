@@ -18,7 +18,11 @@ sass:
 nav:
  - name: "About"
    link: "https://raymondbyc.github.io/"
+ - name: "Resume_ZH"
+   link: "resume_zh.pdf"
  - name: "Resume"
    link: "resume.pdf"
+ - name: "Curriculum Vitae"
+   link: "curriculum vitae.pdf"
  - name: "Contact"
    link: "contact"
