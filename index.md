@@ -33,10 +33,10 @@ GPA: 3.28 / 4.0
 - Robots Vision (Active Vision)
 
 ## Publications
-1. __Yucai Bai__, Qiang Dai, Long Chen*, et al. __Extremely Low Resolution Action Recognition with Spatial-Temporal Attention Transfer__ (submitted to ECCV2020)[\[PDF\]](https://arxiv.org/pdf/1909.03580.pdf)
+1. __Yucai Bai__, Qiang Dai, Long Chen*, et al. __Extremely Low Resolution Action Recognition with Spatial-Temporal Attention Transfer__ (submitted to IJCV)[\[PDF\]](https://arxiv.org/pdf/1909.03580.pdf)
 2. __Yucai Bai__, Lei Fan, et al. __Monocular Outdoor Semantic Mapping with a Multi-task Network__, accepted by IEEE/RSJ International Conference onIntelligent Robots and Systems(IROS) 2019 [\[PDF\]](https://arxiv.org/abs/1901.05807)[\[VIDEO\]](https://www.youtube.com/watch?v=PuVFtVPx3MQ)[\[CODE\]](https://github.com/RaymondByc/segm_depth_network)
 3. __Yucai Bai__, Sen Zhang, Miao Chen, et al. __A Fractional Total Variational CNN Approach for SAR Image Despeckling__, accepted by International Conference on Intelligent Computing(ICIC) 2018 [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-319-95957-3_46)[\[CODE\]](https://github.com/RaymondByc/FID-CNN)
-4. Miao Chen, Yi-Fei Pu, __Yu-Cai Bai__, __Low-Dose CT Image Denosing Using Residual Convolutional Network with Fractional TV Loss __, accepted by Neurocomputing.
+4. Miao Chen, Yi-Fei Pu, __Yu-Cai Bai__, __Low-Dose CT Image Denosing Using Residual Convolutional Network with Fractional TV Loss__, accepted by Neurocomputing.
 
 ## Experiences
 
@@ -51,11 +51,10 @@ We won __2nd__ in the action recognition track of __Teda·Huabo cup innovation a
 
 ### Extreme Low Resolution Action Recognition (2019.5 - Present)
 
-In order to solve the problem that the target in the back corner of the court is too small, we proposed a new method to recognize __Extreme Low-Resolution Action__.
-We make full use of the __high-resolution information__ of __separate spatial and temporal features__ to promote low resolution recognition by __acquiring better attention__.
-Experiments show that our proposed method can improve LR recognition accuracy __up to 4.4%__. The results achieve __state-of-the-art performance__ on 12*16 HMDB51.
+In order to solve the problem that the target in the back corner of the court is too small, we proposed a new method to recognize extreme low-resolution activity.
+we propose a novel Confident Spatial-Temporal Attention Transfer (CSTAT) for eLR activity recognition. __CSTAT can acquire information from high resolution data by reducing the attention differences with a transfer-learning strategy. Besides, the credibility of the supervisory signal is also taken into consideration for a more confident transferring process.__ Experimental results on two well-known datasets, i.e., UCF101 and HMDB51, demonstrate that, the proposed method can effectively improve the accuracy of eLR activity recognition, and achieves an accu- racy of 59.23% on 12×16 videos in HMDB51, __a state-of-the-art performance__.  
 
-__The corresponding paper is submitted to ECCV 2020.__
+__The corresponding paper is submitted to IJCV.__
 
 <div style="text-align:center;"><img src="images/ELR.png" width="70%" text-align="center"></div>
 
