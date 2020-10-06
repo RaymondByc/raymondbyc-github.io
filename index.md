@@ -63,10 +63,7 @@ __The corresponding paper is submitted to IJCV.__
 
 This work was performed when  I studied at [Institute of Unmanned Systems @SYSU](https://www.usilab.cn/) as a summer research intern, under the supervision of [Prof.Chen](http://carlib.net/).   
 
-We explore the interplay between low-level features for both depth and semantic prediction.  
-The proposed network can produce __the depth and semantic maps simultaneously__, which provides basic knowledge for further semantic map reconstruction.    
-We apply __image segmentation techniques__ to __refine the depth prediction__ to reduce the fluctuations caused by convolution layers.   
-The final map is saved in __a memory-friendly way__ to present a large-scale urban scene.  
+We explore the interplay between low-level features for both depth and semantic prediction. The proposed network can produce __the depth and semantic maps simultaneously__, which provides basic knowledge for further semantic map reconstruction. We apply __image segmentation techniques__ to __refine the depth prediction__ to reduce the fluctuations caused by convolution layers. The final map is saved in __a memory-friendly way__ to present a large-scale urban scene.  
 
 __The corresponding paper is accepted by IROS 2019.__   
 
