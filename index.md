@@ -6,9 +6,11 @@ layout: default
 
 <img class="profile-picture" src="portrait.jpg">
 
-Hi! I am a third-year student of the College of Computer Science at [Sichuan University](http://en.scu.edu.cn), China.
+Hi! I am working on HUAWEI company now! I still focus on the exciting field - Self-Driving Cars, where I have no doubts about future prosperity. 
 
-I am looking forward to a PhD or job opportunity of Computer Vision and Machine Learning.
+Specifically, I am involved in the Autonomous Valet Parking(AVP) with four surrounding cameras. I am responsible for the parking slot detection with bird-eye images, and the aid of localization with the related information with parking slot. 
+
+I am still looking forward to a PhD or job opportunity for Computer Vision and Machine Learning. Of course, the opportunity for self-driving cars is better.
 
 ## Education
 ### Sichuan University ( 2017.9 - 2020.6 )
@@ -34,7 +36,7 @@ GPA: 3.28 / 4.0
 1. __Yucai Bai__, Qiang Dai, Long Chen*, et al. __Extremely Low Resolution Action Recognition with Spatial-Temporal Attention Transfer__ (submitted to ECCV2020)[\[PDF\]](https://arxiv.org/pdf/1909.03580.pdf)
 2. __Yucai Bai__, Lei Fan, et al. __Monocular Outdoor Semantic Mapping with a Multi-task Network__, accepted by IEEE/RSJ International Conference onIntelligent Robots and Systems(IROS) 2019 [\[PDF\]](https://arxiv.org/abs/1901.05807)[\[VIDEO\]](https://www.youtube.com/watch?v=PuVFtVPx3MQ)[\[CODE\]](https://github.com/RaymondByc/segm_depth_network)
 3. __Yucai Bai__, Sen Zhang, Miao Chen, et al. __A Fractional Total Variational CNN Approach for SAR Image Despeckling__, accepted by International Conference on Intelligent Computing(ICIC) 2018 [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-319-95957-3_46)[\[CODE\]](https://github.com/RaymondByc/FID-CNN)
-4. Miao Chen, Yi-Fei Pu, __Yu-Cai Bai__, __A Fractional-Order Variational Residual CNN for Low Dose CT Image Denoising__, accepted by International Conference on Intelligent Computing(ICIC) 2019
+4. Miao Chen, Yi-Fei Pu, __Yu-Cai Bai__, __Low-Dose CT Image Denosing Using Residual Convolutional Network with Fractional TV Loss __, accepted by Neurocomputing.
 
 ## Experiences
 
