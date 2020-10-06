@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="portrait.jpg">
 
-Hi! I am working on HUAWEI company now! I still focus on the exciting field - Self-Driving Cars, where I have no doubts about future prosperity. 
+Hi! I am working on HUAWEI company now! I still focus on the exciting field - Self Driving Cars, where I have no doubts about future prosperity. 
 
 Specifically, I am involved in the Autonomous Valet Parking(AVP) with four surrounding cameras. I am responsible for the parking slot detection with bird-eye images, and the aid of localization with the related information with parking slot. 
 
