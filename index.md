@@ -100,7 +100,7 @@ Developed web sites [Bajie Account](https://cs.zbj.com), [Bajie City](https://ci
 
 ## Technical Strengths
 
-Python (Tensorflow > Pytorch > Caffe), JavaScript
+Python (Pytorch > Tensorflow > Caffe), JavaScript
 
 ## English Language Level
 
