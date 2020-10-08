@@ -6,10 +6,11 @@ layout: default
 
 <img class="profile-picture" src="portrait.jpg">
 
-Hi! I am working on HUAWEI company now! I still focus on the exciting field - Self Driving Cars and I have no doubts about its future prosperity. We are in the hard but right way.
+Hi! I am working on HUAWEI company now! I still focus on the exciting field - Self Driving Cars and I have no doubts about its future prosperity. 
 
-Specifically, I am involved in the Autonomous Valet Parking(AVP) with four surrounding cameras. I am responsible for the parking slot detection with bird-eye images, and the aid of localization with the related information with parking slot. 
+Specifically, I am involved in the Autonomous Valet Parking(AVP) with four surrounding cameras. I am responsible for the parking slot detection with bird-eye images, and the aid of localization with the related information with parking slot.   
 
+We are in the hard but right way.
 
 ## Education
 ### Sichuan University ( 2017.9 - 2020.6 )
