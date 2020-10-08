@@ -74,9 +74,9 @@ and non-linearly keep high-frequency edge information and texture information.__
 
 
 We proposed __FID-CNN__ with a 8 layer CNN network to feature extraction and fractional total variational loss to preserve details of SAR image. 
-Ablation experiments were carried out to demonstrate the effectiveness of the method. The paper is accepted by ICIC2018. 
+Ablation experiments were carried out to demonstrate the effectiveness of the method. __The paper is accepted by ICIC2018.__ 
 
-We also transferred the main ideas to low-dose CT images and modified our method to make it more suitable for its characteristics. The paper is accepted by Neurocomputing.
+We also transferred the main ideas to low-dose CT images and modified our method to make it more suitable for its characteristics. __The paper is accepted by Neurocomputing.__
 
 <div style="text-align:center;"><img src="images/FID.png" width="70%"></div>
 
