@@ -30,7 +30,6 @@ GPA: 3.28 / 4.0
 - Extreme Low-Resolution Action Recognition   
 - Semantic 3D Map
 - Multi Learning and Transfer Learning 
-- Robots Vision (Active Vision)
 
 ## Publications
 1. __Yucai Bai__, Qiang Dai, Long Chen*, et al. __Extremely Low Resolution Action Recognition with Spatial-Temporal Attention Transfer__, submitted to __IJCV__ [\[PDF\]](https://arxiv.org/pdf/1909.03580.pdf)
