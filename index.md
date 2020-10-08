@@ -10,7 +10,6 @@ Hi! I am working on HUAWEI company now! I still focus on the exciting field - Se
 
 Specifically, I am involved in the Autonomous Valet Parking(AVP) with four surrounding cameras. I am responsible for the parking slot detection with bird-eye images, and the aid of localization with the related information with parking slot. 
 
-I am still looking forward to a PhD or job opportunity for Computer Vision and Machine Learning. Of course, the opportunity for self-driving cars is better.
 
 ## Education
 ### Sichuan University ( 2017.9 - 2020.6 )
