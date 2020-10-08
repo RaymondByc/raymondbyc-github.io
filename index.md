@@ -85,8 +85,8 @@ We also transferred the main ideas to low-dose CT images and modified our method
 
 Worked in Basic Technology Department.
 
-Updated image format (jpg/png -> webp).       
-Developed web sites [Bajie Account](https://cs.zbj.com), [Bajie City](https://city.zbj.com) pages     
+- Updated image format (jpg/png -> webp).       
+- Developed web sites [Bajie Account](https://cs.zbj.com), [Bajie City](https://city.zbj.com) pages     
 
 ---
 
