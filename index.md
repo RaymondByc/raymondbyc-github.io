@@ -83,9 +83,9 @@ We also transferred the main ideas to low-dose CT images and modified our method
 ### [ZBJ.COM](https://zbj.com) Inc.   Front-End Engineer Intern (2015.9 - 2016.2)
 
 
-Work in Basic Technology Department.
+Worked in Basic Technology Department.
 
-Image Format Update(from jpg/png -> webp).       
+Updated image format (jpg/png -> webp).       
 Developed web sites [Bajie Account](https://cs.zbj.com), [Bajie City](https://city.zbj.com) pages     
 
 ---
