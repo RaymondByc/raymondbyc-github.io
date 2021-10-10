@@ -4,18 +4,22 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="portrait.jpg">
+<img class="profile-picture" src="portrait.jpg" style="
+    width: 83px;
+    height: 97px;
+">
 
-Hi! I am working on HUAWEI company now! I still focus on the exciting field - Self Driving Cars and I have no doubts about its future prosperity. 
+Hi! I am working on HUAWEI company now! I still focus on the exciting field - the perception of self-driving system, and I have no doubts about its future prosperity. 
 
-Specifically, I am involved in the Autonomous Valet Parking(AVP) with four surrounding cameras. I am responsible for the parking slot detection with bird-eye images, and the aid of localization with the related information with parking slot.   
+Specifically, I am involved in a L2-level monocular perception project to take responsible for the 2D detection (car / pedestrian / traffic sign / obstacle, etc).
+Before that, I deeply participated in an Autonomous Valet Parking (AVP) and take responsible for the parking slot detection on bird-eye images.   
 
 We are in the hard but right way.
 
 ## Education
-### Sichuan University ( 2017.9 - 2020.6 )
+### Sichuan University ( 2017.9 - 2020.8 )
 [Tiansi Lab](http://tiansilab.org/en/index.jsp), College of  Computer Science  
-Master of Engineering, expected in 2020.6   
+Master of Engineering, received in 2020.8  
 Major in Software Engineering  
 Supervised under [Prof. Yi-Fei Pu](https://ieeexplore.ieee.org/author/37269178400)   
 GPA: 3.20 / 4.0  
@@ -29,13 +33,13 @@ GPA: 3.28 / 4.0
 ## Research Interests
 - Extreme Low-Resolution Action Recognition   
 - Semantic 3D Map
-- Multi Learning and Transfer Learning 
+- Transfer Learning and Multi-Task Learning
 
 ## Publications
-1. __Yucai Bai__, Qiang Dai, Long Chen*, et al. __Extremely Low Resolution Action Recognition with Spatial-Temporal Attention Transfer__, submitted to __IJCV__ [\[PDF\]](https://arxiv.org/pdf/1909.03580.pdf)
+1. __Yucai Bai__, Qiang Dai, Long Chen*, et al. __Extremely Low Resolution Action Recognition with Confident Spatial-Temporal Attention Transfer__, in the 2nd round review of __TIP__ [\[PDF\]](https://arxiv.org/pdf/1909.03580.pdf)
 2. __Yucai Bai__, Lei Fan, et al. __Monocular Outdoor Semantic Mapping with a Multi-task Network__, accepted by __IROS2019__ [\[PDF\]](https://arxiv.org/abs/1901.05807)[\[VIDEO\]](https://www.youtube.com/watch?v=PuVFtVPx3MQ)[\[CODE\]](https://github.com/RaymondByc/segm_depth_network)
 3. __Yucai Bai__, Sen Zhang, Miao Chen, et al. __A Fractional Total Variational CNN Approach for SAR Image Despeckling__, accepted by __ICIC2018__ [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-319-95957-3_46)[\[CODE\]](https://github.com/RaymondByc/FID-CNN)
-4. Miao Chen, Yi-Fei Pu, __Yu-Cai Bai__, __Low-Dose CT Image Denosing Using Residual Convolutional Network with Fractional TV Loss__, accepted by __Neurocomputing__.
+4. Miao Chen, Yi-Fei Pu, __Yu-Cai Bai__, __Low-Dose CT Image Denosing Using Residual Convolutional Network with Fractional TV Loss__, accepted by __Neurocomputing__ [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0925231220314995)
 
 ## Experiences
 
