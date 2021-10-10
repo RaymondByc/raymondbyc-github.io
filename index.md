@@ -43,24 +43,26 @@ GPA: 3.28 / 4.0
 
 ## Experiences
 
-### Non-compliance Action Detection of Court Scene in Surveillance Videos  (2019.3 - Present)
-As the team leader, I designed and led the entire project,  including  __a detection algorithm of the non-compliance actions in real-time__ and __the production of corresponding datasets__.   
-The detection is divided into two stages.  Firstly, we use the __object detection__ algorithm to detect people and crop the corresponding area. 
-Then we use the __image-based algorithm__ to process the easy-to-classify categories and __3D convolution network__ for more complex actions.
+
+### Extreme Low Resolution Action Recognition (2019.5 - 2021.2)
+
+In order to solve the problem --  people in the corners is very small and just contains limited pixels, we proposed a new method to recognize extremely low-resolution activities.
+which is based on Confident Spatial-Temporal Attention Transfer (CSTAT).
+ 
+ __CSTAT can acquire information from high resolution data by reducing the attention differences with a transfer-learning strategy. Besides, the credibility of the supervisory signal is also taken into consideration for a more confident transferring process.__ Experimental results on two well-known datasets, i.e., UCF101 and HMDB51, demonstrate that, the proposed method can effectively improve the accuracy of eLR activity recognition, and achieves an accu- racy of 59.23% on 12×16 videos in HMDB51, __a state-of-the-art performance__.  
+
+__The corresponding paper is in the 2nd-round review of TIP.__
+
+<div style="text-align:center;"><img src="images/ELR.png" width="70%" text-align="center"></div>
+
+### Non-compliance Action Detection of Court Scene in Surveillance Videos  (2019.3 - 2020.6)
+As the team leader, I took charge of the entire project,  including  __the design and development of a real-time detection algorithm of the non-compliance actions__ and __the production of the non-compliance action datasets__.   
+The detection is divided into two stages.  Firstly, we used the __object detection algorithm__ to detect people and crop the corresponding area. 
+Then we used __image-based algorithms__ to cope with the easy-to-classify categories and __3D convolution network techniques__ for more complex actions.
 
 We won __2nd__ in the action recognition track of __Teda·Huabo cup innovation and entrepreneurship challenge__
 
 <div style="text-align:center;"><img src="images/teda.gif" width="30%" text-align="center"></div>
-
-### Extreme Low Resolution Action Recognition (2019.5 - Present)
-
-In order to solve the problem that the target in the back corner of the court is too small, we proposed a new method to recognize extreme low-resolution activity.
-we propose a novel Confident Spatial-Temporal Attention Transfer (CSTAT) for eLR activity recognition. __CSTAT can acquire information from high resolution data by reducing the attention differences with a transfer-learning strategy. Besides, the credibility of the supervisory signal is also taken into consideration for a more confident transferring process.__ Experimental results on two well-known datasets, i.e., UCF101 and HMDB51, demonstrate that, the proposed method can effectively improve the accuracy of eLR activity recognition, and achieves an accu- racy of 59.23% on 12×16 videos in HMDB51, __a state-of-the-art performance__.  
-
-__The corresponding paper is submitted to IJCV.__
-
-<div style="text-align:center;"><img src="images/ELR.png" width="70%" text-align="center"></div>
-
 
 ### 3D Semantic Reconstruction from a Monocular Camera with a Novel Multi-task Network (2018.8 - 2019.2)
 
