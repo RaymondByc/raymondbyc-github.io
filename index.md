@@ -14,7 +14,7 @@ Hi! I am working on HUAWEI company now! I still focus on the exciting field - th
 Specifically, I am involved in a L2-level monocular perception project to take responsible for the 2D detection (car / pedestrian / traffic sign / obstacle, etc).
 Before that, I deeply participated in an Autonomous Valet Parking (AVP) and take responsible for the parking slot detection on bird-eye images.   
 
-We are in the hard but right way.
+We are in a hard but right way.
 
 ## Education
 ### Sichuan University ( 2017.9 - 2020.8 )
