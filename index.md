@@ -60,21 +60,23 @@ __The corresponding paper is submitted to IJCV.__
 
 ### 3D Semantic Reconstruction from a Monocular Camera with a Novel Multi-task Network (2018.8 - 2019.2)
 
-This work was performed when  I studied at [Institute of Unmanned Systems @SYSU](https://www.usilab.cn/) as a summer research intern, under the supervision of [Prof.Chen](http://carlib.net/).   
+This work was performed when I visited [Institute of Unmanned Systems @SYSU](https://www.usilab.cn/) as a summer research intern, under the supervision of [Prof.Chen](http://carlib.net/).   
 
-We explore the interplay between low-level features for both depth and semantic prediction. The proposed network can produce __the depth and semantic maps simultaneously__, which provides basic knowledge for further semantic map reconstruction. We apply __image segmentation techniques__ to __refine the depth prediction__ to reduce the fluctuations caused by convolution layers. The final map is saved in __a memory-friendly way__ to present a large-scale urban scene.  
+We explored the interplay between low-level features for both depth and semantic prediction. The proposed network can produce __the depth and semantic maps simultaneously__, which provides basic knowledge for further semantic map reconstruction. We apply __image segmentation techniques__ to __refine the depth prediction__ to reduce the fluctuations caused by convolution layers. The final map is saved in __a memory-friendly way__ to present a large-scale urban scene.  
 
 __The corresponding paper is accepted by IROS 2019.__   
 
 <img src="images/3D_Semantic_Restruction.png" width="100%">
 
 ### Image Despeckling with Fractional Total Variational Loss (2017.11 - 2018.5)
-Motivated in __Applications in Fractional Calculus__ Course, we tried to apply fractional calculus to image denoising.In terms of __long-term memory, non-locality, and weak singularity,__ fractional differential of an image can preserve __the low-frequency contour feature in the smooth area, 
-and non-linearly keep high-frequency edge information and texture information.__  
+Motivated by the __Applications in Fractional Calculus__ Course, we applied fractional-calculus techniques in the image denoising task. Due to its advantages, __long-term memory, non-locality and weak singularity,__ the fractional-differential result of images can preserve __the low-frequency feature in the smooth area such as contours, 
+and at the same time,  keep high-frequency information such as textures.__  
 
 
-We proposed __FID-CNN__ with a 8 layer CNN network to feature extraction and fractional total variational loss to preserve details of SAR image. 
-Ablation experiments were carried out to demonstrate the effectiveness of the method. __The paper is accepted by ICIC2018.__ 
+We proposed __FID-CNN__, a 8-layer CNN network with fractional total variational loss. 
+Ablation experiments shows the proposed method has a better performance in preserving details .
+ 
+__The paper is accepted by ICIC2018.__ 
 
 We also transferred the main ideas to low-dose CT images and modified our method to make it more suitable for its characteristics. __The paper is accepted by Neurocomputing.__
 
@@ -85,8 +87,8 @@ We also transferred the main ideas to low-dose CT images and modified our method
 
 Worked in Basic Technology Department.
 
-- Updated image format (jpg/png -> webp).       
-- Developed web sites [Bajie Account](https://cs.zbj.com), [Bajie City](https://city.zbj.com) pages     
+- Developed web sites [Bajie Account](https://cs.zbj.com), [Bajie City](https://city.zbj.com) pages 
+- Updated image format (jpg/png -> webp).           
 
 ---
 
@@ -97,12 +99,10 @@ Worked in Basic Technology Department.
 - Excellent Graduation Thesis, CQUPT 2017.6
 - Third Prize Merit-based Scholarship, CQUPT 2015.9
 
-
 ## Technical Strengths
-
-Python (Pytorch > Tensorflow > Caffe), JavaScript
+Deep learning framework: Pytorch (MMDetection) > Tensorflow > Caffe    
+Coding language: Python, C++, JavaScript
 
 ## English Language Level
-
 IELTS: 6.0 (working on it !!!)     
 CET6
