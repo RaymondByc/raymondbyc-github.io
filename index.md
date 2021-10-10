@@ -31,9 +31,9 @@ Major in Software Engineering
 GPA: 3.28 / 4.0  
 
 ## Research Interests
+- Transfer Learning and Multi-Task Learning
 - Extreme Low-Resolution Action Recognition   
 - Semantic 3D Map
-- Transfer Learning and Multi-Task Learning
 
 ## Publications
 1. __Yucai Bai__, Qiang Dai, Long Chen*, et al. __Extremely Low Resolution Action Recognition with Confident Spatial-Temporal Attention Transfer__, in the 2nd round review of __TIP__ [\[PDF\]](https://arxiv.org/pdf/1909.03580.pdf)
