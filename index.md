@@ -4,7 +4,10 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="portrait.jpg">
+<img class="profile-picture" src="portrait.jpg" style="
+    width: 83px;
+    height: 97px;
+">
 
 Hi! I am working on HUAWEI company now! I still focus on the exciting field - the perception of self-driving system, and I have no doubts about its future prosperity. 
 
