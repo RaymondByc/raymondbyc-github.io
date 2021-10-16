@@ -75,7 +75,7 @@ I also filled a __patent__ for better detection in the environment with uncomple
 In order to solve the problem --  people in the corners is very small and just contains limited pixels, we proposed a new method to recognize extremely low-resolution activities.
 which is based on Confident Spatial-Temporal Attention Transfer (CSTAT).
  
- __CSTAT can acquire information from high resolution data by reducing the attention differences with a transfer-learning strategy. Besides, the credibility of the supervisory signal is also taken into consideration for a more confident transferring process.__ Experimental results on two well-known datasets, i.e., UCF101 and HMDB51, demonstrate that, the proposed method can effectively improve the accuracy of eLR activity recognition, and achieves an accu- racy of 59.23% on 12×16 videos in HMDB51, __a state-of-the-art performance__.  
+ __CSTAT can acquire information from high resolution data by reducing the attention differences with a transfer-learning strategy. Besides, the credibility of the supervisory signal is also taken into consideration for a more confident transferring process.__ Experimental results on two well-known datasets, i.e., UCF101 and HMDB51, demonstrate that, the proposed method can effectively improve the accuracy of eLR activity recognition, and achieves an accuracy of 59.23% on 12×16 videos in HMDB51, __a state-of-the-art performance__.  
 
 __The corresponding paper is in the 2nd-round review of TIP.__
 
