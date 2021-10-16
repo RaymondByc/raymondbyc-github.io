@@ -43,21 +43,32 @@ GPA: 3.28 / 4.0
 
 ## Experiences
 
+### Advanced Driver Assistance Systems (ADAS) (2921.3 - Now)
 
+<div style="text-align:center;"><img src="images/ADAS.gif" width="70%" text-align="center"></div>
+
+ADAS is an L2-level project of self-driving. Its perception part requires multi-class object detection based on forward-view images, including vehicles, pedestrians, traffic signs, obstacles.    
+
+I am responsible for:
+- the optimization of specific categories.
+- the improvement of training speed 
+    - reducing communication time between machines
+    - framework (MMDetction) optimization
+- the improvement of representation ability (with the assistance of the related task, e.g. semantic segmentation).
 
 ### Local Automated Parking Assist (LAPA) (2020.9-2021.2)
 
 <div style="text-align:center;"><img src="images/LAPA.png" width="70%" text-align="center"></div>
 
-LAPA is an L4-level project about to help driver parking their vehicle more conveniently. 
-To be specific, the car with LAPA could park itself in the selected/saved parking slot.
-The perception part is divided into two stages. The first stage is to map and save key information, such as trajectory and key objects.
+LAPA is an L4-level project to help driver park their vehicle more conveniently. 
+To be specific, the car with LAPA could __park itself in the selected/saved parking slot__.
+The perception part is divided into two stages. The first stage is to map and save key information by SLAM system, such as trajectory and key objects.
  The second stage is to locate, including selecting the saved parking slot and constantly providing distance.   
 
 I am responsible for __parking slot detection__ on the bird-eye images and the development of related functions (parking slot selection and related post processing).
  The difficulties involved are: strong light reflection on ground, the missing of key visual features, the fluctuation of detection results.
 
-I also filled a patent for better detection in the environment with uncompleted visual features, which is in the review.  
+I also filled a __patent__ for better detection in the environment with uncompleted visual features, which is in the review.  
 
 ### Extreme Low Resolution Action Recognition (2019.5 - 2021.2)
 
