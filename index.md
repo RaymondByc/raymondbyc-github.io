@@ -43,7 +43,7 @@ GPA: 3.28 / 4.0
 
 ## Experiences
 
-### Advanced Driver Assistance Systems (ADAS) (2921.3 - Now)
+### Advanced Driver Assistance Systems (ADAS) (2021.3 - Now)
 
 <div style="text-align:center;"><img src="images/ADAS.gif" width="70%" text-align="center"></div>
 
