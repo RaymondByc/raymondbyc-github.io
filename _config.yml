@@ -18,8 +18,6 @@ sass:
 nav:
  - name: "Curriculum Vitae"
    link: "curriculum vitae.pdf"
- - name: "Resume"
-   link: "resume.pdf"
  - name: "Resume_ZH"
    link: "resume_zh.pdf"
 
