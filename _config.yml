@@ -16,6 +16,8 @@ sass:
     sass_dir: _sass
 
 nav:
+ - name: "Transcripts"
+   link: "Transcripts.pdf"
  - name: "Curriculum Vitae"
    link: "curriculum vitae.pdf"
  - name: "Resume_ZH"

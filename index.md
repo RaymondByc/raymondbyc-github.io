@@ -68,7 +68,7 @@ The perception part is divided into two stages. The first stage is to map and sa
 I am responsible for __parking slot detection__ on the bird-eye images and the development of related functions (parking slot selection and related post processing).
  The difficulties involved are: strong light reflection on ground, the missing of key visual features, the fluctuation of detection results.
 
-I also filled a __patent__ for better detection in the environment with uncompleted visual features, which is in the review.  
+I also filed a __patent__ for better detection in the environment with uncompleted visual features, which is in the review.  
 
 ### Extreme Low Resolution Action Recognition (2019.5 - 2021.2)
 
