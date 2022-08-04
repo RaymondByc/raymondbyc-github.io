@@ -9,12 +9,11 @@ layout: default
     height: 97px;
 ">
 
-Hi! I am working on HUAWEI company now! I still focus on the exciting field - the perception of self-driving system, and I have no doubts about its future prosperity. 
+Hi, my name is Yucai Bai. I’m a algorithm engineer at Noah Ark Computer Vision Lab in HUAWEI, and I still focus on the project and technology of the self-driving vehicles. I believe L5-level intelligent vehicles will change our live one day. Before that, we can do a lot. 
 
-Specifically, I am involved in a L2-level monocular perception project to take responsible for the 2D detection (car / pedestrian / traffic sign / obstacle, etc).
-Before that, I deeply participated in an Autonomous Valet Parking (AVP) and take responsible for the parking slot detection on bird-eye images.   
+In my opinion, the key technology to L5 is simulation, where we can collect the abundant corner-case data to solve long-tailed problems. And the simulation also plays a key role in the test environment, which the last chance to save people. 
 
-We are in a hard but right way.
+So I want find a PhD/Work opportunity about simulation.
 
 ## Education
 ### Sichuan University ( 2017.9 - 2020.8 )
@@ -36,14 +35,25 @@ GPA: 3.28 / 4.0
 - Semantic 3D Map
 
 ## Publications
-1. __Yucai Bai__, Qin Zou, et al. __Extremely Low Resolution Action Recognition with Confident Spatial-Temporal Attention Transfer__, accepted by  __IEEE Transaction on Image Processing__ [\[PDF\]](https://arxiv.org/pdf/1909.03580.pdf)
+1. __Yucai Bai__, Qin Zou, et al. __Extremely Low Resolution Action Recognition with Confident Spatial-Temporal Attention Transfer__, under review by __IJCV__. Before that, accepted then rejected by __TIP__. [\[PDF\]](https://arxiv.org/pdf/1909.03580.pdf)
 2. __Yucai Bai__, Lei Fan, et al. __Monocular Outdoor Semantic Mapping with a Multi-task Network__, accepted by __IROS2019__ [\[PDF\]](https://arxiv.org/abs/1901.05807)[\[VIDEO\]](https://www.youtube.com/watch?v=PuVFtVPx3MQ)[\[CODE\]](https://github.com/RaymondByc/segm_depth_network)
 3. __Yucai Bai__, Sen Zhang, Miao Chen, et al. __A Fractional Total Variational CNN Approach for SAR Image Despeckling__, accepted by __ICIC2018__ [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-319-95957-3_46)[\[CODE\]](https://github.com/RaymondByc/FID-CNN)
 4. Miao Chen, Yi-Fei Pu, __Yu-Cai Bai__, __Low-Dose CT Image Denosing Using Residual Convolutional Network with Fractional TV Loss__, accepted by __Neurocomputing__ [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0925231220314995)
 
 ## Experiences
 
-### Advanced Driver Assistance Systems (ADAS) (2021.3 - Now)
+### Auto Labelling  (2022.1 - 2022.8)
+
+<div style="text-align:center;"><img src="images/multi-modal-detection.png" width="70%" text-align="center"></div>
+
+In this project, we can use the off-board data to detect more accurately. The unlimited model size and whole video information are allowed to use. The metric is more serious than real-time detection, iou0.8 mAP and iou0.9 mAP.
+
+<div style="text-align:center;"><img src="images/multi-modal-detection.png" width="70%" text-align="center"></div>
+
+I am responsible for the multi-modal (lidar+camera) detection and tracking. For the detection, we concat the extracted image feature with point before convolution. Our experiment shows that, the multi-modal model have dramatic improvement for the target with sparse point.
+For the tracking, extra image information boosts the performance of instance matching process, which helps us enlarge the matching range.  
+
+### Advanced Driver Assistance Systems (ADAS) (2021.3 - 2021.12)
 
 <div style="text-align:center;"><img src="images/ADAS.gif" width="70%" text-align="center"></div>
 
