@@ -9,11 +9,11 @@ layout: default
     height: 97px;
 ">
 
-Hi, my name is Yucai Bai. I’m a algorithm engineer at Noah Ark Computer Vision Lab in HUAWEI, and I still focus on the project and technology of the self-driving vehicles. I believe L5-level intelligent vehicles will change our live one day. Before that, we can do a lot. 
+Hi, my name is Yucai Bai. I’m an algorithm engineer at Noah Ark Computer Vision Lab in HUAWEI, and I still focus on the project and technology of self-driving vehicles. I believe L5-level intelligent vehicles will change our lives one day. Before that, we can do a lot. 
 
-In my opinion, the key technology to L5 is simulation, where we can collect the abundant corner-case data to solve long-tailed problems. And the simulation also plays a key role in the test environment, which the last chance to save people. 
+In my opinion, the key technology to L5 is simulation technology, where we can collect abundant corner-case data to solve long-tailed problems. And the simulation also plays a key role in the test environment, which is the last chance to save people. 
 
-So I want find a PhD/Work opportunity about simulation.
+So I want to find a PhD/Work opportunity about simulation.
 
 ## Education
 ### Sichuan University ( 2017.9 - 2020.8 )
@@ -30,6 +30,7 @@ Major in Software Engineering
 GPA: 3.28 / 4.0  
 
 ## Research Interests
+- Simulation／Nerf
 - Transfer Learning and Multi-Task Learning
 - Extreme Low-Resolution Action Recognition   
 - Semantic 3D Map
@@ -44,15 +45,11 @@ GPA: 3.28 / 4.0
 
 ### Auto Labelling  (2022.1 - 2022.8)
 
-<div style="text-align:center;"><img src="images/multi-modal-detection.png" width="70%" text-align="center"></div>
-
 In this project, we can use the off-board data to detect more accurately. The unlimited model size and whole video information are allowed to use. The metric is more serious than real-time detection, iou0.8 mAP and iou0.9 mAP.
 
 <div style="text-align:center;"><img src="images/multi-modal-detection.png" width="70%" text-align="center"></div>
 
-I am responsible for the multi-modal (lidar+camera) detection and tracking. For the detection, we concat the extracted image feature with point before convolution. Our experiment shows that, the multi-modal model have dramatic improvement for the target with sparse point.
-For the tracking, extra image information boosts the performance of instance matching process, which helps us enlarge the matching range.  
-
+I am responsible for multi-modal (lidar+camera) detection and tracking. For the detection, we concatenate the extracted image feature with the point before convolution. Our experiment shows that the multi-modal model has dramatic improvement for the target with the sparse-point target. For the tracking, extra image information boosts the performance of the instance matching process, which helps us enlarge the matching range.  
 ### Advanced Driver Assistance Systems (ADAS) (2021.3 - 2021.12)
 
 <div style="text-align:center;"><img src="images/ADAS.gif" width="70%" text-align="center"></div>
@@ -142,9 +139,9 @@ Worked in Basic Technology Department.
 - Third Prize Merit-based Scholarship, CQUPT 2015.9
 
 ## Technical Strengths
-Deep learning framework: Pytorch (MMDetection) > Tensorflow > Caffe    
+Deep learning framework: Pytorch (MMDetection, det3d) > Tensorflow > Caffe    
 Coding language: Python, C++, JavaScript
 
 ## English Language Level
-IELTS: 6.0 (working on it !!!)     
+IELTS: 6.5 (working on it !!!)     
 CET6
