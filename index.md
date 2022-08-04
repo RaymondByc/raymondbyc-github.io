@@ -49,7 +49,7 @@ In this project, we can use the off-board data to detect more accurately. The un
 
 <div style="text-align:center;"><img src="images/multi-modal-detection.png" width="70%" text-align="center"></div>
 
-I am responsible for multi-modal (lidar+camera) detection and tracking. For the detection, we concatenate the extracted image feature with the point before convolution. Our experiment shows that the multi-modal model has dramatic improvement for the target with the sparse-point target. For the tracking, extra image information boosts the performance of the instance matching process, which helps us enlarge the matching range.  
+I am responsible for multi-modal (lidar+camera) detection and tracking. For the detection, we concatenate the extracted image feature with the point before convolution. Our experiment shows that the multi-modal model has dramatic improvement for the target with the sparse points. For the tracking, extra image information boosts the performance of the instance matching process, which helps us enlarge the matching range.  
 ### Advanced Driver Assistance Systems (ADAS) (2021.3 - 2021.12)
 
 <div style="text-align:center;"><img src="images/ADAS.gif" width="70%" text-align="center"></div>
