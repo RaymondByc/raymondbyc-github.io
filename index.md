@@ -11,10 +11,6 @@ layout: default
 
 Hi, my name is Yucai Bai. I’m an algorithm engineer at Noah Ark Computer Vision Lab in HUAWEI, and I still focus on the project and technology of self-driving vehicles. I believe L5-level intelligent vehicles will change our lives one day. Before that, we can do a lot. 
 
-In my opinion, the key technology to L5 is simulation technology, where we can collect abundant corner-case data to solve long-tailed problems. And the simulation also plays a key role in the test environment, which is the last chance to save people. 
-
-So I want to find a PhD/Work opportunity about simulation.
-
 ## Education
 ### Sichuan University ( 2017.9 - 2020.8 )
 [Tiansi Lab](http://tiansilab.org/en/index.jsp), College of  Computer Science  
