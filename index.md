@@ -19,25 +19,39 @@ Major in Software Engineering
 Supervised under [Prof. Yi-Fei Pu](https://ieeexplore.ieee.org/author/37269178400)   
 GPA: 3.20 / 4.0  
 
-### Chongqing University of Posts and Telecommunications ( 2013.9 - 2017.6 )
-School of Software Engineering  
-Bachelor of Engineering, received in 2017.6    
-Major in Software Engineering    
-GPA: 3.28 / 4.0  
+[//]: # (### Chongqing University of Posts and Telecommunications &#40; 2013.9 - 2017.6 &#41;)
+
+[//]: # (School of Software Engineering  )
+
+[//]: # (Bachelor of Engineering, received in 2017.6    )
+
+[//]: # (Major in Software Engineering    )
+
+[//]: # (GPA: 3.28 / 4.0  )
 
 ## Research Interests
-- Simulation／Nerf
+
+[//]: # (- Simulation／Nerf)
+- Reconstruction
 - Transfer Learning and Multi-Task Learning
 - Extreme Low-Resolution Action Recognition   
-- Semantic 3D Map
+
 
 ## Publications
-1. __Yucai Bai__, Qin Zou, et al. __Extremely Low Resolution Action Recognition with Confident Spatial-Temporal Attention Transfer__, under review by __IJCV__. Before that, accepted then rejected by __TIP__. [\[PDF\]](https://arxiv.org/pdf/1909.03580.pdf)
+1. __Yucai Bai__, Qin Zou, et al. __Extremely Low Resolution Action Recognition with Confident Spatial-Temporal Attention Transfer__, accepted by IJCV. [\[PDF\]](https://link.springer.com/article/10.1007/s11263-023-01771-4)
 2. __Yucai Bai__, Lei Fan, et al. __Monocular Outdoor Semantic Mapping with a Multi-task Network__, accepted by __IROS2019__ [\[PDF\]](https://arxiv.org/abs/1901.05807)[\[VIDEO\]](https://www.youtube.com/watch?v=PuVFtVPx3MQ)[\[CODE\]](https://github.com/RaymondByc/segm_depth_network)
 3. __Yucai Bai__, Sen Zhang, Miao Chen, et al. __A Fractional Total Variational CNN Approach for SAR Image Despeckling__, accepted by __ICIC2018__ [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-319-95957-3_46)[\[CODE\]](https://github.com/RaymondByc/FID-CNN)
 4. Miao Chen, Yi-Fei Pu, __Yu-Cai Bai__, __Low-Dose CT Image Denosing Using Residual Convolutional Network with Fractional TV Loss__, accepted by __Neurocomputing__ [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0925231220314995)
 
 ## Experiences
+
+### Occupancy GT Generation based on Point Cloud
+Occupancy, as a more general representation for robotic perception, is used in our perception task. In short, occupancy is a task with camera input only to inference the info for each voxel, including is_occupied, velocities, and semantics. However, the labelling for millions of voxel is expensive. In our work, we try to use a strong pseudo-labelling method to reduce the cost.
+
+<div style="text-align:center;"><img src="images/occupancy.jpg" width="70%" text-align="center"></div>
+
+The labelling is divided into three parts. For the occupied status, multi frames in the scene is exploited and the points from all the scene is accumulated with motion compensation (ego and other moving objects). And, the semantics are obtained by lidarseg results. For the velocities, we focus on the methods based on __SCENE FLOW__, which could provide the flow for each point, and semi-supervised method (3D rigid) is our baseline model.
+
 
 ### Auto Labelling  (2022.1 - 2022.8)
 
@@ -80,7 +94,7 @@ which is based on Confident Spatial-Temporal Attention Transfer (CSTAT).
  
  __CSTAT can acquire information from high resolution data by reducing the attention differences with a transfer-learning strategy. Besides, the credibility of the supervisory signal is also taken into consideration for a more confident transferring process.__ Experimental results on two well-known datasets, i.e., UCF101 and HMDB51, demonstrate that, the proposed method can effectively improve the accuracy of eLR activity recognition, and achieves an accuracy of 59.23% on 12×16 videos in HMDB51, __a state-of-the-art performance__.  
 
-__The corresponding paper is in the 2nd-round review of TIP.__
+__The corresponding paper is accpted by IJCV.__
 
 <div style="text-align:center;"><img src="images/ELR.png" width="70%" text-align="center"></div>
 
